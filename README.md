@@ -9,7 +9,7 @@ It covers the entire lifecycle — repository creation, branching, merging, tagg
 
 ---
 
-## 🗂️ Repository Structure
+## 🗂️ Repository Structure -
 ```
 
 .
