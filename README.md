@@ -27,7 +27,7 @@ It covers the entire lifecycle — repository creation, branching, merging, tagg
 
 ---
 
-## 🌳 Branching Model
+## 🌳 Branching Model-
 | Branch | Purpose |
 |---------|----------|
 | `main` | Stable production-ready branch |
